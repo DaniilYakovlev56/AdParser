@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="Domains\Entityes" />
+      <Folder Include="Domains\MappingEntityes" />
+      <Folder Include="Domains\Options" />
+      <Folder Include="Domains\Requests\Parser" />
+      <Folder Include="Domains\Responses\Parser" />
+      <Folder Include="Extentions" />
+      <Folder Include="Handlers\Parser" />
+      <Folder Include="Mapping" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="MediatR" Version="12.0.1" />
+      <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
+    </ItemGroup>
+
+</Project>

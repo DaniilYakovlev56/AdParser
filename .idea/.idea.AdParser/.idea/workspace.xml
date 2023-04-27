@@ -6,11 +6,35 @@
     <projectFile profileName="IIS Express">AdParser/AdParser.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65b78c71-e7fd-4a98-83b4-7f2a3b9b730e" name="Changes" comment="" />
+    <list default="true" id="65b78c71-e7fd-4a98-83b4-7f2a3b9b730e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AdParser.Api/Controllers/AnalysisController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdParser.Api/Controllers/ParserController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdParser.Api/Controllers/SnifferController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdParser.Application/Abstractions/IRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdParser.Application/ServiceCollection.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdParser.Database/ServiceCollection.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdParser.MessageService/ServiceCollection.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AdParser/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AdParser/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdParser.sln" beforeDir="false" afterPath="$PROJECT_DIR$/AdParser.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdParser/AdParser.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AdParser/AdParser.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdParser/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdParser/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdParser/obj/AdParser.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AdParser/obj/AdParser.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdParser/obj/AdParser.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/AdParser/obj/AdParser.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdParser/obj/AdParser.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/AdParser/obj/AdParser.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdParser/obj/Debug/net7.0/AdParser.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdParser/obj/Debug/net7.0/AdParser.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdParser/obj/Debug/net7.0/AdParser.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdParser/obj/Debug/net7.0/AdParser.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdParser/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/AdParser/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdParser/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdParser/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdParser/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AdParser/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdParser/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/AdParser/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OuneSvr4yOGWhvxdIurInnDj1P" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -83,7 +107,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682419432639</updated>
       <workItem from="1682419440838" duration="16000" />
-      <workItem from="1682419487031" duration="340000" />
+      <workItem from="1682419487031" duration="6443000" />
     </task>
     <servers />
   </component>
@@ -92,6 +116,17 @@
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
